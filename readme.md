@@ -6,12 +6,12 @@ Autor: Eduardo Oviedo Blanco
 
 Para usar este taller efectivamente, clone el código en su ambiente local.
 ```
-git clone https://github.com/edWAR6/JavaScript-Arkanoid-Game.git
+git clone https://github.com/edWAR6/JavaScript-Pong-Game.git
 ```
 Si desea subir el taller en su repositorio personal.
 Cree un repositorio en su perfil, luego:
 ```
-git remote set-url origin https://github.com/<tu usuario>/JavaScript-Arkanoid-Game.git
+git remote set-url origin https://github.com/<tu usuario>/JavaScript-Pong-Game.git
 ```
 
 > El nombre del repositorio puede cambiar. Siga las instrucciones y guarde sus cambios.
